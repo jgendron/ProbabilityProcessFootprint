@@ -1,5 +1,5 @@
 #Improve Test Results by Piloting
-*How to Simulate Field Data in the Lab
+*How to Simulate Field Data in the Lab*
 
 -------
 
@@ -7,7 +7,7 @@ A Python program to simulate process traces for process mining techniques using 
 
 ####Overview
 
-The code blends the directionality of the process mining footprint with the stochastic nature of Markov models and state transition probabilities. Code of this type was used to simulate a pilot study to help a team plan for a testing event. The team had no access to field data and no resources to conduct a formal pilot event prior to the main test. Recognizing the inherent risks of entering a test “cold”, the team innovated a technique to develop a synthetic dataset for use as if it were actual field data. The project focused on testing standard operating procedures that are process-oriented, which require the careful completion of a series of activities to attain a desired end state. The code is based on this Pseudocode formulation [Code base](process_sim.py):
+The code blends the directionality of aprocess mining footprint with the stochastic nature of Markov models and state transition probabilities. Code of this type was used to simulate a pilot study to help plan for a testing event. The team had no access to field data and no resources to conduct a formal pilot event prior to the main test. Recognizing the inherent risks of entering a test “cold”, the team innovated a technique to develop a synthetic dataset for use as if it were actual field data. The project focused on testing standard operating procedures that are process-oriented, which require the careful completion of a series of activities to attain a desired end state. The code is based on this Pseudocode formulation [Code base](process_sim.py):
 
 ```
 INIT Traces to empty list
@@ -58,4 +58,4 @@ Card for D.C.’s Infrastructure (American Society of Civil Engineers, 2016).
 
 License
 -------
-GNU GENERAL PUBLIC LICENSE; Version 2, June 1991
+[GNU GENERAL PUBLIC LICENSE; Version 2, June 1991](https://github.com/jgendron/ProbabilityProcessFootprint/blob/master/LICENSE)
