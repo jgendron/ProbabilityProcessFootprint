@@ -1,7 +1,28 @@
 # -*- coding: utf-8 -*-
+'''
+SIMULATION OF MARKOV-STYLE PROCESS FOR PROCESS MINING TOOLS
+This software simulate process traces for process mining techniques
+when actual process data is not available
+    Copyright (C) 2015  Gerald Gendron
+    gerald.gendron@gmail.com
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    
+This General Public License does not permit incorporating your program into
+proprietary programs.  If your program is a subroutine library, you may
+consider it more useful to permit linking proprietary applications with the
+library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.
+'''
+
 """
 Created on Thu Oct  8 21:23:14 2015
-
 @author: Jay Gendron
 """
 
