@@ -1,5 +1,6 @@
 # ProbabilityProcessFootprint
-Code base for work on blending the directionality of the process mining footprint with the stochastic nature of Markov models and state transition probabilities. The code is based on this Pseudocode formulation 
+
+[Code base](process_sim.py) for work on blending the directionality of the process mining footprint with the stochastic nature of Markov models and state transition probabilities. The code is based on this Pseudocode formulation 
 
 ```
 INIT Traces to empty list
