@@ -32,7 +32,7 @@ COMPUTE frequency of each occurrence of Traces
 WRITE list of frequencies to file
 ```
 
-The code is part of a larger project explained in the paper entitled _Improve Test Results by Piloting: How to Simulate Field Data in the Lab_ presented during the [MODSIM 2016 World Conference](http://www.modsimworld.org/). The full paper is freely available at the conference's published [online proceedings](http://www.modsimworld.org/papers/2016/How_to_Simulate_Field_Data_in_the_Lab.pdf). The value of this project is in the innovations, approaches, and results that are extensible to other process-centric tests or studies.
+The code is part of a larger project explained in the paper entitled [_**Improve Test Results by Piloting: How to Simulate Field Data in the Lab**_](http://www.modsimworld.org/papers/2016/How_to_Simulate_Field_Data_in_the_Lab.pdf) presented during the [MODSIM 2016 World Conference](http://www.modsimworld.org/). The full paper is freely available at the conference's published [online proceedings](http://www.modsimworld.org/papers/2016/How_to_Simulate_Field_Data_in_the_Lab.pdf). The value of this project is in the innovations, approaches, and results that are extensible to other process-centric tests or studies.
 
 ####About the Paper's Authors
 
@@ -40,7 +40,7 @@ __Jay Gendron__ is a data scientist with Booz Allen Hamilton. He is a business l
 perspectives of how good questions and compelling visualization make analytics accessible to decision makers. He
 is an award-winning speaker who has presented internationally. Jay volunteers with Code for America - contributing
 data science skills to improve civic and municipal access to data. He is the founder of the Meetup [try.Py - Learn
-Python](http://www.meetup.com/tryPy-Learn-Python/). Jay is authoring a book entitled _Introduction to R for Business Intelligence_ due for release this summer by [Packt Publishing](). For additional information, please visit Jay on  [LinkedIn](https://www.linkedin.com/in/jaygendron), [Twitter](@jaygendron), or his [Community Site for Data Science Managers](http://www.datasciencemanagement.com).
+Python](http://www.meetup.com/tryPy-Learn-Python/). Jay is authoring a book entitled [_**Introduction to R for Business Intelligence**_](https://www.amazon.com/Introduction-Business-Intelligence-Jay-Gendron-ebook/dp/B01F7HCAWG) due for release this summer by [Packt Publishing](https://www.packtpub.com/books/info/authors/jay-gendron). For additional information, please visit Jay on  [LinkedIn](https://www.linkedin.com/in/jaygendron), [Twitter](https://twitter.com/jaygendron), or his [Community Site for Data Science Managers](http://www.datasciencemanagement.com).
 
 __Tammy Crane__ is an aeronautical engineer and operations research systems analyst at SRC. She uses engineering
 and data analytics expertise to improve human performance in scenario-based M&S training, electronic warfare, weapons
